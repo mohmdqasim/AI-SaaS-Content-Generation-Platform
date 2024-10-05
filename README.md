@@ -41,7 +41,7 @@ git clone https://github.com/athrala/AI-SaaS-Content-Generation-Platform.git
 ```shell
 npm i
 ```
-//
+
 ### Setup .env file
 
 
